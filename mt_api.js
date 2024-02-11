@@ -3,8 +3,8 @@ import "./mt_style1.css";
 import './mt_app.js';
 import Sentiment from 'sentiment';
 
-const CLIENT_ID = "45e65cfe12dc47f598cc9f7d4dd4bbd6";
-const CLIENT_SECRET = "30c3c7137f5141c391784be2e498426a";
+const CLIENT_ID = " ";
+const CLIENT_SECRET = " ";
 const SPOTIFY_API_TOKEN_URL = "https://accounts.spotify.com/api/token";
 const SPOTIFY_API_SEARCH_URL = "https://api.spotify.com/v1/search";
 var ARTIST_ID = "06HL4z0CvFAxyc27GXpf02";
@@ -32,19 +32,7 @@ async function getAccessToken() {
     await getArtistID(); 
     return data.access_token;
 }
-
-// const getArtistGenres = async (accessToken, artistId) => {
-//   const response = await fetch(
-//     `https://api.spotify.com/v1/artists/${artistId}`,
-//     {
-//       headers: {
-//         Authorization: "Bearer " + accessToken,
-//       },
-//     }
-//   );
-//   const data = await response.json();
-//    return data.genres;
-// };
+ 
 
 const getTopTracks = async (accessToken, artistId, market) => {
   const response = await fetch(

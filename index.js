@@ -2,11 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './mt_style.css';
 import App from './mt_app.js';
-import reportWebVitals from './reportWebVitals';
 import Navbars from './mt_nav.js';
 import AboutPage from './mt_about.js';
-import AudioPlayer from './mt_audio.js'; 
-
+ 
 function Footer(){
   return(
     <div>
@@ -23,11 +21,9 @@ root.render(
     <App />
     <AboutPage/>
     <Footer/>
-    <AudioPlayer/>
-  </React.StrictMode>
+   </React.StrictMode>
 );
-//    <ArtistProfile/>
-
+ 
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

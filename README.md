@@ -4,9 +4,9 @@ An Interactive Web application using React.js, to showcase the top 5 discography
 --Contains Files only of source folder in React App
 
 
-![image](https://github.com/DS-1090/MoodTunes_WebApp/assets/126580400/47d60ce3-6ea0-4d75-ab78-2a24bae6d960)
+ ![Screenshot 2024-02-17 195812](https://github.com/DS-1090/MoodTunes_WebApp/assets/126580400/c1ea282e-88cc-4140-a355-a3b5bb6a4d94)
 
 
-![image](https://github.com/DS-1090/MoodTunes_WebApp/assets/126580400/cd3e6fb6-35e5-4454-ab98-eba842106d02)
+![Screenshot 2024-02-17 195828](https://github.com/DS-1090/MoodTunes_WebApp/assets/126580400/1a38be3b-9abb-420d-bc42-d2c8a968c82d)
 
-![image](https://github.com/DS-1090/MoodTunes_WebApp/assets/126580400/29416116-0c71-49ce-99f6-baa243d8470d)
+![image](https://github.com/DS-1090/MoodTunes_WebApp/assets/126580400/a506e527-9a41-49b2-9c75-21186c7d748c)
